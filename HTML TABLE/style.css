@@ -1,0 +1,13 @@
+body {
+ font-family: "Sofia", sans-serif;
+}
+
+th {
+ padding: 10px;
+ text-align: center;
+}
+
+td {
+ padding: 10px;
+ text-align: center;
+}
